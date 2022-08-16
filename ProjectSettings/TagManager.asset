@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - CollectableMoney
+  - Money
+  - Diamond
+  - Gold
+  - ATM
+  - CollectableGold
+  - CollectableDiamond
+  - Thorn
+  - Guillotine
+  - Card
   layers:
   - Default
   - TransparentFX
